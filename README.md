@@ -46,7 +46,13 @@ pip3 install -r requirements.txt
 To use the project, you can:
 
 1. Install the requirements
-2. Run the `run.py` file
+2. Create a `.env` file or set the following environment variables for your local machine:
+
+```bash
+BROADCASTIFY_API = "API Key Here"
+```
+
+3. Run the `run.py` file
 
 ## Contributing
 
