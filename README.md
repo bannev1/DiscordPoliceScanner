@@ -49,6 +49,7 @@ To use the project, you can:
 2. Create a `.env` file or set the following environment variables for your local machine:
 
 ```bash
+DISCORD_TOKEN = "Discord Bot Token Here"
 BROADCASTIFY_API = "API Key Here"
 ```
 
